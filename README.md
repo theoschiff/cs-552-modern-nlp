@@ -33,7 +33,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |:------------|:---------------------|:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
 | **Week 1**  | 21 Feb <br />22 Feb  |  Introduction &#124; Building a simple neural classifier [[slides][1s]]  <br />Neural LMs: word embeddings [[slides][1s]]  |  Antoine Bosselut                   	    |
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 2**  |  28 Feb <br />29 Feb   |  LM basics &#124; Neural LMs: Fixed Context Models [[slides][2s]]<br />Neural LMs: RNNs, Backpropagation, Vanishing Gradients; LSTMs     |  Antoine Bosselut                   		|
+| **Week 2**  |  28 Feb <br />29 Feb   |  LM basics &#124; Neural LMs: Fixed Context Models [[slides][2s]]<br />Neural LMs: RNNs, Backpropagation, Vanishing Gradients; LSTMs [[slides][2s]]    |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 3**  |  6 Mar <br />7 Mar   |  Seq2seq + decoding + attention &#124; Transformers<br />Transformers + Greedy Decoding; GPT |  Antoine Bosselut  		|
 |             |                      |                                                                                                                             |                                      	    |
@@ -155,15 +155,15 @@ The project will be divided into 2 milestones and a final submission. Each miles
 More details on the content of the project and the deliverables of each milestone will be released at a later date.
 <!-- Registration details can be found in the announcement [here][1p]. -->
 
-#### Milestone 1 (15%):
+#### Milestone 1:
 <!-- - Milestone 1 parameters can be found in the [project description][2p]. -->
 - Due: 5 May 2024
 
-#### Milestone 2 (15%):
+#### Milestone 2:
 <!-- - Milestone 2 parameters can be found in the [project description][2p]. -->
 - Due: 26 May 2024
 
-#### Final Deliverable (30%):
+#### Final Deliverable:
 - The final report, code, and date will be due on June 14th. Students are welcome to turn in their materials ahead of time, as soon as the semester ends.
 <!-- - More details can be found in the [project description][2p]. -->
 - Due: 14 June 2024
