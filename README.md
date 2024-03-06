@@ -35,7 +35,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 2**  |  28 Feb <br />29 Feb   |  LM basics &#124; Neural LMs: Fixed Context Models [[slides][2s]]<br />Neural LMs: RNNs, Backpropagation, Vanishing Gradients; LSTMs [[slides][2s]]    |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 3**  |  6 Mar <br />7 Mar   |  Seq2seq + decoding + attention &#124; Transformers<br />Transformers + Greedy Decoding; GPT |  Antoine Bosselut  		|
+| **Week 3**  |  6 Mar <br />7 Mar   |  Seq2seq + decoding + attention &#124; Transformers [[slides][3s]] <br />Transformers + Greedy Decoding; GPT |  Antoine Bosselut  		|
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 4**  | 13 Mar <br />14 Mar  |  **\[Online only\]** Pretraining: ELMo, BERT, MLM, task generality &#124; Transfer Learning: Introduction <br /> Assignment 1 Q&A   |  Antoine Bosselut  <br />  Simin Fan                 		|
 |             |                      |                                                                                                                             |                                      	    |
@@ -181,7 +181,7 @@ Please contact us for any organizational questions or questions related to the c
 
 [1s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%201
 [2s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%202
-<!-- [3s]: -->
+[3s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203
 <!-- [4s]: -->
 <!-- [5s]: -->
 <!-- [6s]: -->
