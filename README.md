@@ -72,7 +72,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 | **Week 2**  |  29 Feb  |  Word embeddings review <br /> Language and Sequence-to-sequence models [[code][2e]] |  Mete Ismayilzada <br />Badr AlKhamissi  |
 |             |         |                                                                                       |                                                                     |
 | **Week 3**  |  6 Mar  | Assignment 1 Q&A    | Mete Ismayilzada         |
-| **Week 3**  |  7 Mar  | Language and Sequence-to-sequence models review <br /> Attention + Transformers    |  Badr AlKhamissi    |
+| **Week 3**  |  7 Mar  | Language and Sequence-to-sequence models review <br /> Attention + Transformers [[code][3e]]   |  Badr AlKhamissi    |
 |             |         |                                                                                       |                                                                     |
 | **Week 4**  | 13 Mar  |  **\[Online only\]** Pretraining S2S: BART, T5 | Antoine Bosselut   |
 | **Week 4**  | 14 Mar  |  Attention + Transformers review <br />Pretraining and Transfer Learning Pt. 1  |  Badr AlKhamissi  <br /> Simin Fan    |
@@ -199,7 +199,7 @@ Please contact us for any organizational questions or questions related to the c
 [0e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Setup
 [1e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%201%20-%20Word%20Embeddings
 [2e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%202%20-%20N-gram%20%26%20Neural%20Language%20Models
-<!-- [3e]: -->
+[3e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%203%20-%20RNNs
 <!-- [4e]: -->
 <!-- [5e]: -->
 <!-- [6e]: -->
