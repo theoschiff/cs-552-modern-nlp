@@ -176,7 +176,7 @@ More details on the content of the project and the deliverables of each mileston
 
 **Teaching assistants**: [Badr AlKhamissi](https://people.epfl.ch/badr.alkhamissi), [Deniz Bayazit](https://people.epfl.ch/deniz.bayazit?lang=en), [Beatriz Borges](https://people.epfl.ch/beatriz.borges), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Simin Fan](https://people.epfl.ch/simin.fan?lang=en), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan), [Silin Gao](https://people.epfl.ch/silin.gao?lang=en), [Mete Ismayilzada](https://people.epfl.ch/mahammad.ismayilzada)
 
-Please contact us for any organizational questions or questions related to the course content.
+Please email us at **nlp-cs552-spring2024-ta-team [at] groupes [dot] epfl [dot] ch** for any administrative questions, rather than emailing TAs individually. All course content questions need to be asked via Ed.
 
 
 [1s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%201
