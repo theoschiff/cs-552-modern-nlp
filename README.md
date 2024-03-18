@@ -77,11 +77,11 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 | **Week 4**  | 13 Mar  |  **\[Online only\]** Pretraining S2S: BART, T5 [[slides][4s]] | Antoine Bosselut   |
 | **Week 4**  | 14 Mar  |  Attention + Transformers review <br />Pretraining and Transfer Learning Pt. 1  |  Badr AlKhamissi  <br /> Simin Fan    |
 |             |         |                                                                                       |                                                                     |
-| **Week 5**  | 20 Mar  |  Assignment 2 Q&A        |  Simin Fan              |
+| **Week 5**  | 20 Mar  |      -     |       -          |
 | **Week 5**  | 21 Mar  |  Pretraining and Transfer Learning Pt. 1 review <br />Transfer Learning Pt. 2        |  Simin Fan              |
 |             |         |                                                                                       |                                                                     |
-| **Week 6**  | 28 Mar  |  Assignment 2 Q&A    |  Simin Fan    |
-| **Week 6**  | 28 Mar  |  Transfer Learning Pt. 2 review <br />Text Generation    |  Simin Fan <br />Deniz Bayazit           |
+| **Week 6**  | 27 Mar  |  Assignment 2 Q&A    |  Simin Fan, Silin Gao    |
+| **Week 6**  | 28 Mar  |  Transfer Learning Pt. 2 review <br />Text Generation - Assignment 2 Q&A    |  Simin Fan <br />Deniz Bayazit, Silin Gao          |
 |             |         |                                                                                       |                                                                     |
 |  |   |  ***EASTER BREAK***                                                                   |                                                                     |  
 |             |         |                                                                                       |                                                                     |
