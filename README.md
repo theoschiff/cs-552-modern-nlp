@@ -39,7 +39,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 4**  | 13 Mar <br />14 Mar  |  **\[Online only\]** Pretraining: ELMo, BERT, MLM, task generality &#124; Transfer Learning: Introduction [[slides][4s]] <br /> Assignment 1 Q&A   |  Antoine Bosselut  <br />  Simin Fan                 		|
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 5**  | 20 Mar <br />21 Mar  |  Transfer Learning: Dataset Biases  <br />Generation: Task    |  Antoine Bosselut                   		|
+| **Week 5**  | 20 Mar <br />21 Mar  |  Transfer Learning: Dataset Biases [[slides][5s]] <br />Generation: Task    |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 6**  | 27 Mar <br />28 Mar  |  Generation: Decoding and Training  <br />Generation: Evaluation  |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
@@ -75,7 +75,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 | **Week 3**  |  7 Mar  | Language and Sequence-to-sequence models review <br /> Attention + Transformers [[code][3e]]   |  Badr AlKhamissi    |
 |             |         |                                                                                       |                                                                     |
 | **Week 4**  | 13 Mar  |  **\[Online only\]** Pretraining S2S: BART, T5 [[slides][4s]] | Antoine Bosselut   |
-| **Week 4**  | 14 Mar  |  Attention + Transformers review <br />Pretraining and Transfer Learning Pt. 1  |  Badr AlKhamissi  <br /> Simin Fan    |
+| **Week 4**  | 14 Mar  |  Attention + Transformers review <br />Pretraining and Transfer Learning Pt. 1 [[code][4e]] |  Badr AlKhamissi  <br /> Simin Fan    |
 |             |         |                                                                                       |                                                                     |
 | **Week 5**  | 20 Mar  |      -     |       -          |
 | **Week 5**  | 21 Mar  |  Pretraining and Transfer Learning Pt. 1 review <br />Transfer Learning Pt. 2        |  Simin Fan              |
@@ -182,7 +182,7 @@ Please email us at **nlp-cs552-spring2024-ta-team [at] groupes [dot] epfl [dot] 
 [2s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%202
 [3s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203
 [4s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%204
-<!-- [5s]: -->
+[5s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205
 <!-- [6s]: -->
 <!-- [7s]: -->
 <!-- [8s]: -->
@@ -199,7 +199,7 @@ Please email us at **nlp-cs552-spring2024-ta-team [at] groupes [dot] epfl [dot] 
 [1e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%201%20-%20Word%20Embeddings
 [2e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%202%20-%20N-gram%20%26%20Neural%20Language%20Models
 [3e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%203%20-%20RNNs
-<!-- [4e]: -->
+[4e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%204%20-%20Pretraining%20%26%20Finetuning
 <!-- [5e]: -->
 <!-- [6e]: -->
 <!-- [7e]: -->
