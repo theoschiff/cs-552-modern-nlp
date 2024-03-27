@@ -41,7 +41,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 5**  | 20 Mar <br />21 Mar  |  Transfer Learning: Dataset Biases [[slides][5s]] <br />Generation: Task  [[slides][5s]]   |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 6**  | 27 Mar <br />28 Mar  |  Generation: Decoding and Training  <br />Generation: Evaluation  |  Antoine Bosselut                   		|
+| **Week 6**  | 27 Mar <br />28 Mar  |  Generation: Decoding and Training  [[slides][6s]] <br />Generation: Evaluation  |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
 |             |                      |  ***EASTER BREAK***                                                                                                       |                                     		|
 |             |                      |                                                                                                                             |                                      	    |
@@ -183,7 +183,7 @@ Please email us at **nlp-cs552-spring2024-ta-team [at] groupes [dot] epfl [dot] 
 [3s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203
 [4s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%204
 [5s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205
-<!-- [6s]: -->
+[6s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%206
 <!-- [7s]: -->
 <!-- [8s]: -->
 <!-- [9s]: -->
