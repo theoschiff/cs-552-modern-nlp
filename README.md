@@ -41,7 +41,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 5**  | 20 Mar <br />21 Mar  |  Transfer Learning: Dataset Biases [[slides][5s]] <br />Generation: Task  [[slides][5s]]   |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 6**  | 27 Mar <br />28 Mar  |  Generation: Decoding and Training  [[slides][6s]] <br />Generation: Evaluation  |  Antoine Bosselut                   		|
+| **Week 6**  | 27 Mar <br />28 Mar  |  Generation: Decoding and Training  [[slides][6s]] <br />Generation: Evaluation [[slides][6s]]  |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
 |             |                      |  ***EASTER BREAK***                                                                                                       |                                     		|
 |             |                      |                                                                                                                             |                                      	    |
